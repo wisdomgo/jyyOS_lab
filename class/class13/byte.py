@@ -1,0 +1,2 @@
+for i in [0xcc,0xcd,0xdd,0xfd]:
+    print(bytes([i] * 80).decode('gbk'))
