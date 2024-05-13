@@ -1,4 +1,4 @@
-#include <thread.h>
+cd #include <thread.h>
 #include <thread-sync.h>
 
 #define N 5
